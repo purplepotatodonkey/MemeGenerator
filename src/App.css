@@ -57,3 +57,11 @@ main {
   border: none;
   cursor: pointer;
 }
+
+.form--button:hover {
+  background: linear-gradient(90deg, #490761 1.14%, #7a0d9e 100%);
+}
+
+#meme--template {
+  max-width: 100%;
+}
